@@ -1,4 +1,4 @@
-# Lennard-Jones-potential
-Homework for WSS17
+# WSS17
+Homework for WSS17: Lennard Jones potential
 
-Open the file "Lennard-Jones potential" to see
+Exploration project: upcoming...
